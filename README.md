@@ -1,3 +1,0 @@
-# Selenium
-Projects with selenium
-
